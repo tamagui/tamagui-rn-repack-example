@@ -2,6 +2,19 @@ import * as Colors from '@tamagui/colors'
 
 // nice and flat
 
+export const colorNames = [
+  'blue',
+  'gray',
+  'green',
+  'indigo',
+  'orange',
+  'pink',
+  'purple',
+  'red',
+  'violet',
+  'yellow',
+] as const
+
 export const light = {
   ...Colors.blue,
   ...Colors.gray,

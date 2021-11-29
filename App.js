@@ -1,7 +1,7 @@
 import React from 'react'
 import { SafeAreaView, ScrollView, StatusBar, Text, useColorScheme, View } from 'react-native'
 import { Colors } from 'react-native/Libraries/NewAppScreen'
-import { Button, Paragraph, Theme, YStack } from 'tamagui'
+import { Button, Paragraph, Theme, useThemeName, YStack } from 'tamagui'
 import Tamagui from './tamagui.config'
 
 const App = () => {
@@ -33,7 +33,7 @@ export default App
 
 const Examples = () => {
   return (
-    <YStack flex={1} bc="$bg" ai="center" jc="center" space="$7">
+    <YStack flex={1} bc="$bg" ai="center" jc="center" space="$2">
       <Theme name="light">
         <TestComponent />
       </Theme>
@@ -52,8 +52,8 @@ const Examples = () => {
 
 const TestComponent = () => {
   return (
-    <YStack bc="$bg2" space ai="center" jc="center">
-      <YStack width={100} height={100} backgroundColor="red" />
+    <YStack p="$1" bc="$bg2" space="$1" ai="center" jc="center">
+      <YStack width={100} height={100} backgroundColor="$bg" />
       <Paragraph $sm={{ color: 'red' }} size="$6">
         Hello
       </Paragraph>

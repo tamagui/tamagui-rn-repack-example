@@ -11,45 +11,29 @@
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-native": "0.66.3"
+    "react-native": "0.66.3",
+    "react-native-web": "^0.17.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "@babel/runtime": "^7.12.5",
+    "@babel/core": "^7.16.0",
+    "@babel/runtime": "^7.16.3",
     "@callstack/repack": "^2.5.1",
     "@react-native-community/eslint-config": "^2.0.0",
-    "@tamagui/babel-plugin": "*",
-    "@tamagui/colors": "*",
+    "@tamagui/babel-plugin": "^1.0.0-alpha.21",
+    "@tamagui/colors": "^1.0.0-alpha.17",
     "@unimodules/core": "^7.1.2",
-    "babel-jest": "^26.6.3",
+    "babel-jest": "^27.3.1",
     "babel-loader": "^8.2.3",
-    "eslint": "7.14.0",
+    "eslint": "8.3.0",
     "expo": "^43.0.3",
-    "jest": "^26.6.3",
+    "jest": "^27.3.1",
     "metro-react-native-babel-preset": "^0.66.2",
     "react-test-renderer": "17.0.2",
-    "tamagui": "*",
+    "tamagui": "^1.0.0-alpha.21",
     "terser-webpack-plugin": "^5.2.5",
     "webpack": "^5.64.4"
   },
   "jest": {
     "preset": "react-native"
-  },
-  "resolutions": {
-    "@tamagui/babel-plugin": "portal:/Users/n8/tamagui/packages/babel-plugin",
-    "@tamagui/build": "portal:/Users/n8/tamagui/packages/build",
-    "@tamagui/colors": "portal:/Users/n8/tamagui/packages/colors",
-    "@tamagui/core": "portal:/Users/n8/tamagui/packages/core",
-    "@tamagui/core-node": "portal:/Users/n8/tamagui/packages/core-node",
-    "@tamagui/fake-react-native": "portal:/Users/n8/tamagui/packages/fake-react-native",
-    "@tamagui/feather-icons": "portal:/Users/n8/tamagui/packages/feather-icons",
-    "@tamagui/helpers": "portal:/Users/n8/tamagui/packages/helpers",
-    "tamagui-loader": "portal:/Users/n8/tamagui/packages/loader",
-    "@tamagui/next-plugin": "portal:/Users/n8/tamagui/packages/next-plugin",
-    "@tamagui/static": "portal:/Users/n8/tamagui/packages/static",
-    "tamagui": "portal:/Users/n8/tamagui/packages/tamagui",
-    "@tamagui/use-debounce": "portal:/Users/n8/tamagui/packages/use-debounce",
-    "@tamagui/use-force-update": "portal:/Users/n8/tamagui/packages/use-force-update",
-    "@tamagui/use-window-size": "portal:/Users/n8/tamagui/packages/use-window-size"
   }
 }
