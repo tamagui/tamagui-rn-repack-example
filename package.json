@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "upgrade:tamagui": "manypkg upgrade tamagui && manypkg upgrade @tamagui",
+    "upgrade:tamagui": "manypkg upgrade tamagui && manypkg upgrade @tamagui && manypkg upgrade tamagui-loader",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native webpack-start",
@@ -21,8 +21,8 @@
     "@callstack/repack": "^2.5.1",
     "@manypkg/cli": "^0.19.1",
     "@react-native-community/eslint-config": "^2.0.0",
-    "@tamagui/babel-plugin": "^1.0.0-alpha.41",
-    "@tamagui/colors": "^1.0.0-alpha.41",
+    "@tamagui/babel-plugin": "^1.0.0-alpha.48",
+    "@tamagui/colors": "^1.0.0-alpha.44",
     "@unimodules/core": "^7.1.2",
     "babel-jest": "^27.3.1",
     "babel-loader": "^8.2.3",
@@ -31,7 +31,7 @@
     "jest": "^27.3.1",
     "metro-react-native-babel-preset": "^0.66.2",
     "react-test-renderer": "17.0.2",
-    "tamagui": "^1.0.0-alpha.41",
+    "tamagui": "^1.0.0-alpha.48",
     "terser-webpack-plugin": "^5.2.5",
     "webpack": "^5.64.4"
   },

@@ -2117,21 +2117,21 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tamagui/babel-plugin@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/babel-plugin/-/babel-plugin-1.0.0-alpha.41.tgz#3e30b82e8f6850ee94ac94a69a63264918cb41b7"
-  integrity sha512-fYWvzaWj0kLsHXk8AIqoP1yiyMfU4uxw5tlMFvk6geFTcAqqYGollCBc3u+Y3MLhbUiPdDy0bGx/2GtfXqlAQg==
+"@tamagui/babel-plugin@^1.0.0-alpha.48":
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/@tamagui/babel-plugin/-/babel-plugin-1.0.0-alpha.48.tgz#a74c3c56c4f025382d35e310da5a684668313f82"
+  integrity sha512-RMGwe0YxWAFGNnoHyyzwjFMh5t4D/Q7mG2ZaBtm5N8yCDifsA93AWFJxilkd37IPNPfVQxT35MFNP/QA1gd37w==
   dependencies:
     "@babel/generator" "^7.15.4"
     "@babel/helper-plugin-utils" "^7.14.5"
     "@babel/template" "*"
     "@babel/traverse" "^7.15.4"
-    "@tamagui/static" "^1.0.0-alpha.41"
+    "@tamagui/static" "^1.0.0-alpha.48"
 
-"@tamagui/build@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/build/-/build-1.0.0-alpha.41.tgz#9bc6a38776ce068d64d31c2cd530a50a70c37e1a"
-  integrity sha512-k9gQzh5huxt4yATdPruMJwGF6PARVHG+672dzFr1CRhRpvBYHeH0nZ3zQv33kbG3sHgljfaI/s24XbnYPD8bCQ==
+"@tamagui/build@^1.0.0-alpha.44":
+  version "1.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tamagui/build/-/build-1.0.0-alpha.44.tgz#e71f5d37a98eed6953831b56bdc644121cbf6931"
+  integrity sha512-eT2glKLbQWo07WLn5qyoGcy9SKsKUhFocIeErUCtSm9CvmEi8WJFBNJTZ0+5kOWt1/AchsO7clteFQVj/Yfg5Q==
   dependencies:
     chokidar "^3.5.2"
     esbuild "^0.13.12"
@@ -2141,27 +2141,27 @@
     json5 "^2.2.0"
     typescript "^4.5.2"
 
-"@tamagui/colors@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/colors/-/colors-1.0.0-alpha.41.tgz#fa21837a5221883c0488093f33ec29d5d09df2b8"
-  integrity sha512-FHv6o2W3/bKuNqMJFmyUd2UgBsNtDxqW/qkSAvlo1IHQai96wVZYLaw7r5PhPU1x1ViDzIiGwVW4AT2fLtWMYQ==
+"@tamagui/colors@^1.0.0-alpha.44":
+  version "1.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tamagui/colors/-/colors-1.0.0-alpha.44.tgz#13a26ebe6aa220b751c512610e1d66c197691363"
+  integrity sha512-4PU470tMixWx70fYrbHQek24QeCemKMgyK+Foxaa15joNCSeqt5zKSowCJwAV58wTVznIT24mYH3ujwdfxLRGg==
 
-"@tamagui/core-node@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/core-node/-/core-node-1.0.0-alpha.41.tgz#2af4505eb6a6e580decbdb556830cce2a3b4073b"
-  integrity sha512-1C9omBaXCQUxeZHXMVNpw8T3yg+Kc2sfs/2KU8bEllw8ZiPiKjqsIpGMu37lGdEsEXvaR8SHLHRm967bEEh42Q==
+"@tamagui/core-node@^1.0.0-alpha.48":
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/@tamagui/core-node/-/core-node-1.0.0-alpha.48.tgz#85e1c41531ee1f28cec24e2448ffe7a4d79f80f4"
+  integrity sha512-4gQfLC/shQuB6ZrcdaFOm0ZegsUg0KdcEdbfJ8j4BNa5gG8wE3oMup7+l9CnwjqVUXxWJDQEnOA/FDp4R+nKoA==
   dependencies:
-    "@tamagui/helpers" "^1.0.0-alpha.41"
+    "@tamagui/helpers" "^1.0.0-alpha.48"
 
-"@tamagui/core@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/core/-/core-1.0.0-alpha.41.tgz#394d59821e0865a799d66e19195e96bfca110ab6"
-  integrity sha512-dDoZ+QbzA1herzYQxFEYjQ8bHENYAnJB6eaJopejXjTnJ7s1dMHcAYzfOjuFxHHKv3QGvdk4lopJZfifLuEfNw==
+"@tamagui/core@^1.0.0-alpha.48":
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/@tamagui/core/-/core-1.0.0-alpha.48.tgz#667dab0802fc7f3d370d769d4d38a0a508a68279"
+  integrity sha512-144skxAwhwB/HIzzAEF5CXYHp2JosjYEq8FpCpy5K0Cz5fXIZLIBJ3LZtwtOKkFO0gdaFeqJEBpittOg2F2VkQ==
   dependencies:
-    "@tamagui/helpers" "^1.0.0-alpha.41"
+    "@tamagui/helpers" "^1.0.0-alpha.48"
     "@tamagui/ow" "^0.28.1"
-    "@tamagui/use-debounce" "^1.0.0-alpha.41"
-    "@tamagui/use-force-update" "^1.0.0-alpha.41"
+    "@tamagui/use-debounce" "^1.0.0-alpha.44"
+    "@tamagui/use-force-update" "^1.0.0-alpha.44"
     react "*"
     react-dom "*"
 
@@ -2170,10 +2170,10 @@
   resolved "https://registry.yarnpkg.com/@tamagui/fake-react-native/-/fake-react-native-1.0.0-alpha.17.tgz#e7192e65750b1617f361249b8208d54b873d0268"
   integrity sha512-VWRMQEyOhwgycxGCqD4cCQUwCqp68vLpJcMwgKTlK+/KspkQZftlLRDKfXFzI/QIPSAJcjiRxm6URbdwPDfxQQ==
 
-"@tamagui/helpers@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/helpers/-/helpers-1.0.0-alpha.41.tgz#6a3063d4fdad1f7c89840088b6bf6282bb5488c7"
-  integrity sha512-O1XEiyxABuL2pAmPC1cR29HCgdtjVQZ/YwzeEnBF6E1wEr4WzmD9n0p11ER20oIkcMM6ckN5UaXvFlVjVnLQug==
+"@tamagui/helpers@^1.0.0-alpha.48":
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/@tamagui/helpers/-/helpers-1.0.0-alpha.48.tgz#c1f712eb214fae2f0489d90304098ed1e234aca3"
+  integrity sha512-pgyI4/qZJi86KaA0Ft8N04DCC2AA0GQ1Od03VNJG6yAdbjQvrSRzGSBM8M77iZQrUBrQV8oSfOKY0pOv1cB+Kw==
 
 "@tamagui/ow@^0.28.1":
   version "0.28.1"
@@ -2187,10 +2187,10 @@
     type-fest "^2.3.4"
     vali-date "^1.0.0"
 
-"@tamagui/static@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/static/-/static-1.0.0-alpha.41.tgz#22394d2054e4fabbf13554fb376b3d5f087e6686"
-  integrity sha512-SkJT+X2E9ss6KBONkPd5GtpbVPKAp6B2pWpwN9UaRxbE1/Co5ZoqTIdv0aU6ka/6fBf6gymX6o7ptC/sqqWyPw==
+"@tamagui/static@^1.0.0-alpha.48":
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/@tamagui/static/-/static-1.0.0-alpha.48.tgz#1d9ecc86280d1a70654c47e3ab6fe06ee1eff95f"
+  integrity sha512-2L/wyNV6prnLVWPS1HCBmHyILgteP9fCbBGBnO7Zb1m95fxi6VQc1xfNTKHK58d7iX8NTh7KvHTXNBo2oltehw==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/generator" "^7.15.4"
@@ -2199,11 +2199,11 @@
     "@babel/traverse" "^7.15.4"
     "@dish/babel-preset" "^0.0.6"
     "@expo/match-media" "^0.1.0"
-    "@tamagui/build" "^1.0.0-alpha.41"
-    "@tamagui/core" "^1.0.0-alpha.41"
-    "@tamagui/core-node" "^1.0.0-alpha.41"
+    "@tamagui/build" "^1.0.0-alpha.44"
+    "@tamagui/core" "^1.0.0-alpha.48"
+    "@tamagui/core-node" "^1.0.0-alpha.48"
     "@tamagui/fake-react-native" "^1.0.0-alpha.17"
-    "@tamagui/helpers" "^1.0.0-alpha.41"
+    "@tamagui/helpers" "^1.0.0-alpha.48"
     babel-literal-to-ast "^2.1.0"
     esbuild "^0.13.12"
     esbuild-register "^3.1.2"
@@ -2212,19 +2212,19 @@
     invariant "^2.2.4"
     loader-utils "^2.0.0"
     lodash "^4.17.21"
-    tamagui "^1.0.0-alpha.41"
+    tamagui "^1.0.0-alpha.48"
 
-"@tamagui/use-debounce@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/use-debounce/-/use-debounce-1.0.0-alpha.41.tgz#b32a789a527d53c5a4055fbcc461229a1c808ee3"
-  integrity sha512-4KFt3QWdlwSC3Ehfgo2YotUDrwdy+qplD0iBRl/UDKorhXcKTbQvjCo3D2uhf2kQGW2gk7GfJUmUSG/HUKl/Tw==
+"@tamagui/use-debounce@^1.0.0-alpha.44":
+  version "1.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tamagui/use-debounce/-/use-debounce-1.0.0-alpha.44.tgz#95ed4646b89639a44f6398df90aa565fffad4694"
+  integrity sha512-5a+u3rLnEUY/ycAdUJFc7yXhw7jNtUDCKvV7tWtqOPjG4mKt8aEl1IlTbHMNh8aowMNvUO8jz+cQkJBrwqd6JA==
   dependencies:
     react "*"
 
-"@tamagui/use-force-update@^1.0.0-alpha.41":
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/@tamagui/use-force-update/-/use-force-update-1.0.0-alpha.41.tgz#402d3c97f234f52180ce7a9ba606899459de5074"
-  integrity sha512-nNfIrKMBAkcr9cHPd5AJ/RgX2b+KHV7TQMOterfKpAhB415WNDzd37kZ2GPVgUSRNIKUwQE/uWUcgorXdLENcA==
+"@tamagui/use-force-update@^1.0.0-alpha.44":
+  version "1.0.0-alpha.44"
+  resolved "https://registry.yarnpkg.com/@tamagui/use-force-update/-/use-force-update-1.0.0-alpha.44.tgz#c68fd831e7bebe5b4fc1586e17df0081583e0a0e"
+  integrity sha512-A7DwQXdzsUHazqJAq9f1tikkjj/GG3EpPu885XmQp2QxHX39VAwzEq4zrsiuineg9x/rUO3nH1UNYyOpzw/MEw==
   dependencies:
     react "*"
 
@@ -9482,21 +9482,21 @@ symbol-tree@^3.2.4:
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.4.tgz#430637d248ba77e078883951fb9aa0eed7c63fa2"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
 
-tamagui@^1.0.0-alpha.41:
-  version "1.0.0-alpha.41"
-  resolved "https://registry.yarnpkg.com/tamagui/-/tamagui-1.0.0-alpha.41.tgz#b6ad42f4e2da4a26f6cd5ad1a6f7622015557b86"
-  integrity sha512-tYlzKFyQa3XBsy3FfDyOBZ/7SedogYOO4hG3kvzfiIH5CqvScVTWYeNOvKQRgiBHIjH62HrsuMwLWLRIQi9tnw==
+tamagui@^1.0.0-alpha.48:
+  version "1.0.0-alpha.48"
+  resolved "https://registry.yarnpkg.com/tamagui/-/tamagui-1.0.0-alpha.48.tgz#80e2795ab1d95b77a3f65a9f206037c6528fab8d"
+  integrity sha512-Zq4Nvv4M8gp5Vqrnm8nMF1z9NnGxnGGAxYx7hDfsoJDAdRUN3D6BRGzLOowWmkD5Pc4JR/6h4j2MopeZGd1nHg==
   dependencies:
     "@react-aria/ssr" "^3.1.0"
     "@react-aria/utils" "^3.10.0"
     "@react-native-aria/focus" "^0.2.5"
     "@react-native-aria/overlays" "^0.3.2"
     "@react-native-community/blur" "^3.6.0"
-    "@tamagui/core" "^1.0.0-alpha.41"
+    "@tamagui/core" "^1.0.0-alpha.48"
     "@tamagui/fake-react-native" "^1.0.0-alpha.17"
-    "@tamagui/helpers" "^1.0.0-alpha.41"
-    "@tamagui/use-debounce" "^1.0.0-alpha.41"
-    "@tamagui/use-force-update" "^1.0.0-alpha.41"
+    "@tamagui/helpers" "^1.0.0-alpha.48"
+    "@tamagui/use-debounce" "^1.0.0-alpha.44"
+    "@tamagui/use-force-update" "^1.0.0-alpha.44"
     expo-linear-gradient "^10.0.3"
     normalize-css-color "*"
     react "*"
